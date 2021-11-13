@@ -56,7 +56,7 @@ int yoko[5] = {1};
 
  int main()
  {
-     int yoko[5] = {1,2};
+     int yoko[5] = {1};
      int tate[5] = {1,2,3,4,5};
 
      for(int n=0; n<5; ++n)
